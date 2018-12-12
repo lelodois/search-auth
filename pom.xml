@@ -3,10 +3,10 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>br.com.lelo</groupId>
-    <artifactId>picpay-search-auth</artifactId>
+    <artifactId>search-auth</artifactId>
     <packaging>jar</packaging>
     <version>1.0.0</version>
-    <name>picpay-search-auth</name>
+    <name>search-auth</name>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -89,7 +89,7 @@
     </dependencyManagement>
 
     <build>
-        <finalName>picpay-search-auth</finalName>
+        <finalName>search-auth</finalName>
         <testSourceDirectory>src/test</testSourceDirectory>
         <plugins>
             <plugin>
